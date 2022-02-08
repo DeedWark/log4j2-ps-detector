@@ -16,3 +16,6 @@
 ```bash
 bash log4j2-ps-detector.sh
 ```
+
+## Others
+> sha256sum of log4j2-ps-detector.sh: `6219f9ce016d3f8e158b67b2df13f428bf27005a802b81e50492104e751d919b`
